@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @fathima2026
 - 👀 I’m interested in web development and networking
-- 🌱 I’m currently learning node JS, REACT, learning to building android applications using flutter
+- 🌱 I’m currently learning node JS, REACT
 - 📫 How to reach me : fathima2026@gmail.com
 
 <!---
