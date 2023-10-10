@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @fathima2026
-- 👀 I’m interested in web development and networking
-- 🌱 I’m currently learning node JS, REACT
+- 👀 I’m interested in backend development and networking
+- 🌱 I’m building ed-owl ed-tech project using REACT and DJANGO with postgresql as database
 - 📫 How to reach me : fathima2026@gmail.com
 
 <!---
